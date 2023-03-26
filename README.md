@@ -1,4 +1,4 @@
-![Sonoclock logo](assets/sonoclock-logo.png)
+![Sonoclock logo](public/sonoclock-logo.png)
 
 # sonoclock - Listen to the time
 
