@@ -1,7 +1,6 @@
-# sonoclock
-Listen to the time
-
 ![Sonoclock logo](assets/sonoclock-logo.png)
+
+# sonoclock - Listen to the time
 
 Sonoclock is a clock that "plays" the time as musical intervals. Designed to be accessible to blind and visually impaired users, Sonoclock is a great ear-training tool.
 
